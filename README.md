@@ -8,7 +8,7 @@ Each rule is tested, documented, and categorized by malware behavior or detectio
 
 | Category | Description | READ [PDF] | READ [.md] | 
 |----------|-------------| ---------- | ---------- |
-| Credentials Theft | Detects hardcoded or obfuscated credential theft and C2 exfil phrases | - | - |
+| Credentials Theft | Detects hardcoded or obfuscated credential theft and C2 exfil phrases | [READ PDF](Rule-1/YaraRule1.pdf) | [READ MarkDown](Rule-1/YaraRule1.md) |
 
 ---
 
