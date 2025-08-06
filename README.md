@@ -7,9 +7,8 @@ Each rule is tested, documented, and categorized by malware behavior or detectio
 ## Rule Categories
 
 | Category | Description | READ [PDF] | READ [.md] | 
-|----------|-------------|
-| credential_theft | Detects hardcoded or obfuscated credential theft and C2 exfil phrases | | | |
-| (future) obfuscation | Detect XOR/hex encoded payloads |
+|----------|-------------| ---------- | ---------- |
+| Credentials Theft | Detects hardcoded or obfuscated credential theft and C2 exfil phrases | - | - |
 
 ---
 
