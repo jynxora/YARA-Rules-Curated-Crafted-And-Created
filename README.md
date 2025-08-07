@@ -6,9 +6,10 @@ Each rule is tested, documented, and categorized by malware behavior or detectio
 
 ## Rule Categories
 
-| Category | Description | READ [PDF] | READ [.md] | 
+| Name | Description | READ [PDF] | READ [.md] | 
 |----------|-------------| ---------- | ---------- |
 | Credentials Theft | Detects hardcoded or obfuscated credential theft and C2 exfil phrases | [READ PDF](Rule-1/YaraRule1.pdf) | [READ MarkDown](Rule-1/YaraRule1.md) |
+| RegEx Pattern | Detects obfuscated Malware and Credntial stealing | [READ PDF](Rule-2/YaraRule2.pdf) | [READ MarkDown](Rule-1/YaraRule2.md) |
 
 ---
 
