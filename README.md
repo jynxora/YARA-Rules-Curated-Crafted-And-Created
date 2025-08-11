@@ -10,6 +10,7 @@ Each rule is tested, documented, and categorized by malware behavior or detectio
 |----------|-------------| ---------- | ---------- |
 | Credentials Theft | Detects hardcoded or obfuscated credential theft and C2 exfil phrases | [READ PDF](Rule-1/YaraRule1.pdf) | [READ MarkDown](Rule-1/YaraRule1.md) |
 | RegEx Pattern | Detects obfuscated Malware and Credntial stealing | [READ PDF](Rule-2/YaraRule2.pdf) | [READ MarkDown](Rule-2/YaraRule2.md) |
+| RegEx Pattern | Detects obfuscated IPv4 Domain | [READ PDF](Rule-3/YaraRule3.pdf) | [READ MarkDown](Rule-3/YaraRule3.md) |
 
 ---
 
