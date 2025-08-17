@@ -1,4 +1,4 @@
-# DFIR Regex + YARA Hunt
+# DFIR Regex + YARA Hunt + Python Automation
 
 ## YARA-Scan: Detection Rule Development
 
